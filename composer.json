@@ -1,5 +1,5 @@
 {
-    "name": "blade-ui-kit/blade-icons",
+    "name": "rafflex/themosis-svg",
     "description": "A package to easily make use of icons in your Laravel Blade views.",
     "keywords": ["Blade", "Icons", "Laravel", "SVG"],
     "homepage": "https://github.com/blade-ui-kit/blade-icons",
