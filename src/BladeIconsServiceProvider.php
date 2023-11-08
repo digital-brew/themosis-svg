@@ -8,9 +8,9 @@ use BladeUI\Icons\Components\Icon;
 use Illuminate\Contracts\Filesystem\Factory as FilesystemFactory;
 use Illuminate\Contracts\View\Factory as ViewFactory;
 use Illuminate\Filesystem\Filesystem;
-use Themosis\Core\Application;
 use Illuminate\Support\Facades\Blade;
 use Illuminate\Support\ServiceProvider;
+use Themosis\Core\Application;
 
 final class BladeIconsServiceProvider extends ServiceProvider
 {
