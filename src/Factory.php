@@ -177,7 +177,7 @@ final class Factory
         throw SvgNotFound::missing($set, $name);
     }
 
-    private function getSvgFromPath(string $name, string $path, ?string $disk = null): string
+    private function getSvgFromPath(string $name, string $path, string $disk = null): string
     {
         $contents = trim($this->filesystem($disk)->get(sprintf(
             '%s/%s.svg',
@@ -224,9 +224,9 @@ final class Factory
         }
 
         $attributes = array_merge(
-            $attributes,
             $this->config['attributes'],
             (array) ($this->sets[$set]['attributes'] ?? []),
+            $attributes,
         );
 
         foreach ($attributes as $key => $value) {
@@ -250,7 +250,7 @@ final class Factory
     /**
      * @return \Illuminate\Contracts\Filesystem\Filesystem|Filesystem
      */
-    private function filesystem(?string $disk = null)
+    private function filesystem(string $disk = null)
     {
         return $this->disks && $disk ? $this->disks->disk($disk) : $this->filesystem;
     }

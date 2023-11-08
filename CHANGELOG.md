@@ -2,7 +2,49 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/blade-ui-kit/blade-icons/compare/1.3.0...1.x)
+## [Unreleased](https://github.com/blade-ui-kit/blade-icons/compare/1.5.3...1.x)
+
+## [1.5.3](https://github.com/blade-ui-kit/blade-icons/compare/1.5.2...1.5.3) - 2023-10-18
+
+- Fix for invalid defer attribute on SVG tag by [@Jaybuz](https://github.com/Jaybuz) in https://github.com/blade-ui-kit/blade-icons/pull/218
+
+## [1.5.2](https://github.com/blade-ui-kit/blade-icons/compare/1.5.1...1.5.2) - 2023-06-09
+
+- Windows support by @driesvints in https://github.com/blade-ui-kit/blade-icons/pull/213
+
+## [1.5.1](https://github.com/blade-ui-kit/blade-icons/compare/1.5.0...1.5.1) - 2023-02-15
+
+- Apply SVG file filter for Generator by Default by @mallardduck in https://github.com/blade-ui-kit/blade-icons/pull/209
+
+## [1.5.0](https://github.com/blade-ui-kit/blade-icons/compare/1.4.1...1.5.0) - 2023-01-11
+
+### Added
+
+- Laravel v10 Support by @driesvints in https://github.com/blade-ui-kit/blade-icons/pull/207
+
+## [1.4.1](https://github.com/blade-ui-kit/blade-icons/compare/1.4.0...1.4.1) - 2022-09-30
+
+### Fixed
+
+- Fixed deferred SVGs that use mask, defs or use tags by @AEM5299 in https://github.com/blade-ui-kit/blade-icons/pull/202
+
+## [1.4.0](https://github.com/blade-ui-kit/blade-icons/compare/1.3.2...1.4.0) - 2022-09-28
+
+### Added
+
+- Add ability to provide own defer hash by @pionl in https://github.com/blade-ui-kit/blade-icons/pull/201
+
+## [1.3.2](https://github.com/blade-ui-kit/blade-icons/compare/v1.3.1...1.3.2) - 2022-09-21
+
+### Fixed
+
+- Fix SVGs that are using `<g` by @pionl in https://github.com/blade-ui-kit/blade-icons/pull/200
+
+## [v1.3.1](https://github.com/blade-ui-kit/blade-icons/compare/1.3.0...v1.3.1) - 2022-08-24
+
+### Changed
+
+- Prioritize component attributes over set and default attributes by @sebastianpopp in https://github.com/blade-ui-kit/blade-icons/pull/197
 
 ## [1.3.0](https://github.com/blade-ui-kit/blade-icons/compare/1.2.2...1.3.0) - 2022-05-11
 

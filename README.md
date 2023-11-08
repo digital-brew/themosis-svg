@@ -7,8 +7,8 @@
 <a href="https://github.com/blade-ui-kit/blade-icons/actions?query=workflow%3ATests">
     <img src="https://github.com/blade-ui-kit/blade-icons/workflows/Tests/badge.svg" alt="Tests">
 </a>
-<a href="https://github.styleci.io/repos/66956607">
-    <img src="https://github.styleci.io/repos/66956607/shield?style=flat" alt="Code Style">
+<a href="https://github.com/blade-ui-kit/blade-icons/actions/workflows/coding-standards.yml">
+    <img src="https://github.com/blade-ui-kit/blade-icons/actions/workflows/coding-standards.yml/badge.svg" alt="Coding Standards" />
 </a>
 <a href="https://packagist.org/packages/blade-ui-kit/blade-icons">
     <img src="https://img.shields.io/packagist/v/blade-ui-kit/blade-icons" alt="Latest Stable Version">
@@ -43,6 +43,8 @@ Or into...
 
 Looking for a specific icon? Try our icon search: https://blade-ui-kit.com/blade-icons#search
 
+Any sponsorship to [help fund development](https://github.com/sponsors/driesvints) is greatly appreciated ❤️
+
 ## Icon Packages
 
 Blade Icons is a base package to make it easy for you to use SVG icons in your app. In addition, there's also quite some third party icon set packages. Thanks to the community for contributing these!
@@ -71,6 +73,7 @@ We're not accepting requests to build new icon packages ourselves but you can [s
 - [Blade Evil Icons](https://github.com/codeat3/blade-evil-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Feather Icons](https://github.com/brunocfalcao/blade-feather-icons) by [Bruno Falcão](https://github.com/brunocfalcao)
 - [Blade File Icons](https://github.com/codeat3/blade-file-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
+- [Blade File Type Icons](https://github.com/log1x/blade-filetype-icons) by [Brandon Nifong](https://github.com/log1x)
 - [Blade FluentUi System Icons](https://github.com/codeat3/blade-fluentui-system-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Font Audio](https://github.com/codeat3/blade-fontaudio) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Font Awesome](https://github.com/owenvoke/blade-fontawesome) by [Owen Voke](https://github.com/owenvoke)
@@ -91,14 +94,17 @@ We're not accepting requests to build new icon packages ourselves but you can [s
 - [Blade Ionicons](https://github.com/Faisal50x/blade-ionicons) by [Faisal Ahmed](https://github.com/Faisal50x)
 - [Blade Jam Icons](https://github.com/codeat3/blade-jam-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Line Awesome Icons](https://github.com/codeat3/blade-line-awesome-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
+- [Blade Lineicons](https://github.com/datlechin/blade-lineicons) by [Ngô Quốc Đạt](https://github.com/datlechin)
 - [Blade Lucide Icons](https://github.com/mallardduck/blade-lucide-icons) by [Dan Pock](https://github.com/mallardduck)
 - [Blade Majestic Icons](https://github.com/codeat3/blade-majestic-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Maki Icons](https://github.com/codeat3/blade-maki-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
+- [Blade Material Design Icons](https://github.com/postare/blade-mdi) by [Postare](https://github.com/postare)
 - [Blade Microns](https://github.com/codeat3/blade-microns) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Mono Icons](https://github.com/codeat3/blade-mono-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Pepicons](https://github.com/codeat3/blade-pepicons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Phosphor icons](https://github.com/codeat3/blade-phosphor-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Pixelarticons](https://github.com/codeat3/blade-pixelarticons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
+- [Blade Polaris Icons](https://github.com/Eduard9969/blade-polaris-icons) by [Samoilenko Eduard](https://github.com/Eduard9969)
 - [Blade Prime Icons](https://github.com/codeat3/blade-prime-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Radix Icons](https://github.com/codeat3/blade-radix-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Remix Icon](https://github.com/andreiio/blade-remix-icon) by [Andrei Ioniță](https://github.com/andreiio)
@@ -111,10 +117,11 @@ We're not accepting requests to build new icon packages ourselves but you can [s
 - [Blade Typicons](https://github.com/codeat3/blade-typicons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Uiw Icons](https://github.com/codeat3/blade-uiw-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Unicons](https://github.com/codeat3/blade-unicons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
+- [Blade UntitledIU Icons](https://github.com/mckenziearts/blade-untitledui-icons) by [Arthur Monney](https://github.com/mckenziearts)
 - [Blade Vaadin Icons](https://github.com/codeat3/blade-vaadin-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade VSCode Codicons](https://github.com/codeat3/blade-codicons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 - [Blade Weather Icons](https://github.com/codeat3/blade-weather-icons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
-- [Blade Zondicons](https://github.com/blade-ui-kit/blade-zondicons) by [Dries Vints](https://github.com/driesvints)
+- [Blade Zondicons](https://github.com/blade-ui-kit/blade-zondicons) by [Swapnil Sarwe](https://github.com/swapnilsarwe)
 
 ## Requirements
 
@@ -161,6 +168,12 @@ It's a good idea to add the `icons:cache` command as part of your deployment pip
 
 Alternatively, you may choose to [disable Blade components](#disabling-components) entirely.
 
+Also, when adding new icons, renaming directories in your icon paths, it's always a good idea to clear your views before refreshing the page:
+
+```bash
+php artisan view:clear
+```
+
 ## Configuration
 
 ### Defining Sets
@@ -197,7 +210,8 @@ return [
 ];
 ```
 
-> ⚠️ Always make sure you're pointing to existing directories.
+> **Warning**  
+> Always make sure you're pointing to existing directories.
 
 #### Multiple Paths
 
@@ -220,7 +234,8 @@ return [
 
 This gives you the benefit from grouping icons from different paths under a single set where you can define the same prefix and default classes.
 
-> ⚠️ When using multiple paths instead of one, Blade Icons will return the first icon it finds when an icon name is present in more than one path. Please ensure you use unique icon names when registering multiple paths if you want to retrieve the correct icon.
+> **Warning**  
+> When using multiple paths instead of one, Blade Icons will return the first icon it finds when an icon name is present in more than one path. Please ensure you use unique icon names when registering multiple paths if you want to retrieve the correct icon.
 
 ### Filesystem Disk
 
@@ -288,7 +303,8 @@ return [
 ];
 ```
 
-> ⚠️ There's one caveat when using fallback icons and that is that they don't work when using [Blade Components](#components). In this case, Laravel will throw an exception that the component cannot be found. If you want to make use of fallback icons please consider one of the other usages.
+> **Note**  
+> There's one caveat when using fallback icons and that is that they don't work when using [Blade Components](#components). In this case, Laravel will throw an exception that the component cannot be found. If you want to make use of fallback icons please consider one of the other usages.
 
 ### Prefixing Icons
 
@@ -349,7 +365,7 @@ return [
 
 This always needs to be an associative array.  Additionally, the same option is available in sets so you can set default attributes on every set.
 
-It is not possible to overwrite existing attributes on SVG icons. If you already have attributes defined on icons which you want to override, remove them first.
+The sequence in which classes get applied is `default attributes / set attributes / explicit attributes` where the latter overwrites the former. It is not possible to overwrite existing attributes on SVG icons. If you already have attributes defined on icons which you want to override, remove them first.
 
 ## Usage
 
@@ -381,7 +397,8 @@ Or any other attributes for that matter:
 <x-icon-camera class="icon-lg" id="settings-icon" style="color: #555" data-baz/>
 ```
 
-> ⚠️ Note that with Blade components, using a prefix is always required, even when referencing icons from the default set.
+> **Note**  
+> With Blade components, using a prefix is always required, even when referencing icons from the default set.
 
 #### Deferring icons
 
@@ -401,6 +418,22 @@ This will push the icons to the stack "bladeicons", you should load this stack a
     </svg>
 </body>
 </html>
+```
+
+##### Using deferred icons in JavaScript 
+
+You can re-use your icons from blade in your JavaScript rendered views by providing a custom defer value that will be used as an identifier:
+
+```blade
+<x-icon-camera defer="my-custom-hash" />
+```
+
+Then, in your JavaScript, create an `svg` element with `use` and `href="#icon-{your-hash}"` attribute.
+
+```javascript
+function icon() {
+    return <svg><use href="#icon-my-custom-hash"></use></svg>
+}
 ```
 
 #### Default Component
