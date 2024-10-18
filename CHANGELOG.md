@@ -2,7 +2,27 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/blade-ui-kit/blade-icons/compare/1.5.3...1.x)
+## [Unreleased](https://github.com/blade-ui-kit/blade-icons/compare/1.7.2...1.x)
+
+## [1.7.2](https://github.com/blade-ui-kit/blade-icons/compare/1.7.1...1.7.2) - 2024-10-17
+
+* Register optimize commands by [@erikgaal](https://github.com/erikgaal) in https://github.com/blade-ui-kit/blade-icons/pull/253
+
+## [1.7.1](https://github.com/blade-ui-kit/blade-icons/compare/1.7.0...1.7.1) - 2024-08-14
+
+* Remove labelled-by attribute from SVG when title attribute is passed  by [@aarishgilani](https://github.com/aarishgilani) in https://github.com/blade-ui-kit/blade-icons/pull/249
+
+## [1.7.0](https://github.com/blade-ui-kit/blade-icons/compare/1.6.1...1.7.0) - 2024-07-29
+
+* Accessible SVG icons: Add title tag inside SVG if the title attribute is set by [@aarishgilani](https://github.com/aarishgilani) in https://github.com/blade-ui-kit/blade-icons/pull/245
+
+## [1.6.1](https://github.com/blade-ui-kit/blade-icons/compare/1.6.0...1.6.1) - 2024-07-26
+
+* Icon deferring; match all SVG tags by [@royduin](https://github.com/royduin) in https://github.com/blade-ui-kit/blade-icons/pull/244
+
+## [1.6.0](https://github.com/blade-ui-kit/blade-icons/compare/1.5.3...1.6.0) - 2024-02-07
+
+* Laravel 11 by [@robsontenorio](https://github.com/robsontenorio) in https://github.com/blade-ui-kit/blade-icons/pull/223
 
 ## [1.5.3](https://github.com/blade-ui-kit/blade-icons/compare/1.5.2...1.5.3) - 2023-10-18
 
